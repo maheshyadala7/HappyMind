@@ -45,6 +45,3 @@ Stress level?        (1=Low  2=Medium  3=High)   : 3
 - Random Forest Classifier
 - Train / Test Split
 - Accuracy Score
-
----
-Made for TCS Interview Project 💛
